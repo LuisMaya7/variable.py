@@ -1,2 +1,3 @@
-hgvgvg
-n
+
+c = float(input())
+print=c
